@@ -1,9 +1,5 @@
 body {
-<<<<<<< HEAD
-    background-color: red;
-=======
-    background-color: navajowhite;
->>>>>>> cabang_baru
+    background-color: blueviolet;
 }
 
 h1 {
@@ -12,7 +8,7 @@ h1 {
 }
 
 p{
-    font-weight: 500;
+    font-weight: 100;
     color: white;
     background-color: hotpink;
 }
