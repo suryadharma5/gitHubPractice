@@ -6,3 +6,9 @@ h1 {
     font-size: large;
     background-color: aqua;
 }
+
+p{
+    font-weight: 100;
+    color: white;
+    background-color: hotpink;
+}
