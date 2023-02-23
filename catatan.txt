@@ -1,0 +1,18 @@
+1. git init -> untuk membuat repositori di direktori yang sudah ditentukan dan menyimpan semua informasi terkait dengan repositori
+
+2. git status -> untuk melihat status dari repositori yang ada (File apa saja yang baru dibuat atau dimodifikasi dan belum diadd & dicommit)
+
+3. git add -> menambahkan perubahan pada file ke staging area. Staging area adalah area di mana perubahan pada file akan disimpan sebelum di-commit ke repositori Git. ada juga command "git add ." itu berfungsi memasukan semua file yang ada ke staging area
+
+4. git commit -> mengcommit perubahan yang terjadi dengan command git commit -m "message"
+
+5. git log -> untuk menampilkan history commit kita
+
+6. git checkout -> untuk kembali ke perubahan sebelumnya atau untuk masuk ke branch tertentu, jadi commandnya "git checkout <commit hash>". jika menggunakan git checkout maka kita akan membuat branch baru, jadi ga di main branch. Maka jika ingin balik ke branch master, maka lakukan command "git checkout master"
+
+7. git branch -> untuk membuat branch baru dengan command "git branch <branch-name>". branch tidak mengubah main code
+
+8. git merge -> untuk menggabungkan antara branch dan main
+
+
+
