@@ -1,0 +1,12 @@
+1. untuk konek git ke github -> git remote add "nama yang kita mau (origin)" link github
+contoh : git remote add origin https://github.com/suryadharma5/gitHubPractice.git
+
+2. untuk cek ada berapa remote -> git remote -v
+
+3. untuk post code kita -> git push -u "nama yang udah dibuat pas konek (origin)" main
+contoh : git push -u origin main
+
+4. git pull origin master -> untuk mengambil source code dari remote yg sudah dibuat oleh collaborator
+
+5. git push -u origin "nama branch" untuk ngepush perubahan yang terjadi di branch
+
